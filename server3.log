@@ -1,0 +1,5 @@
+INFO: User login successful for userID 123
+INFO: Fetching user profile data
+ERROR: Database connection pool exhausted
+INFO: Retrying database query
+ERROR: Failed to fetch user data after 3 attempts

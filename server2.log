@@ -1,0 +1,5 @@
+INFO: Initializing cache system
+INFO: Cache warmed successfully
+ERROR: Disk write failure on /var/log/data
+INFO: Attempting recovery process
+ERROR: Recovery failed due to insufficient permissions
